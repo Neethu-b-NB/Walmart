@@ -12,3 +12,12 @@ StayInCurrentCityYears:	Number of years stay in current city<br>
 Marital_Status:	Marital Status<br>
 ProductCategory:	Product Category (Masked)<br>
 Purchase:	Purchase Amount<br>
+## Analysis Done:<br>
+Visual Analysis - Univariate & Bivariate<br>
+  For continuous variable(s): Distplot, countplot, histogram for univariate analysis<br>
+  For categorical variable(s): Boxplot<br>
+  For correlation: Heatmaps, Pairplots<br>
+Missing Value & Outlier Detection <br>
+Non-Graphical Analysis<br>
+
+
